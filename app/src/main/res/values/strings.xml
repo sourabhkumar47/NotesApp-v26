@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotesApp-v26</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signIn">Sign up with Google</string>
+    <string name="noNotesMsg">No notes to available</string>
+    <string name="fab">FAB</string>
+    <string name="welcome">Welcome</string>
+</resources>
